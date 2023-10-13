@@ -53,3 +53,6 @@ TagManager:
   - name: Personaje
     uniqueID: 1599703001
     locked: 0
+  - name: Colores
+    uniqueID: 2448168695
+    locked: 0
