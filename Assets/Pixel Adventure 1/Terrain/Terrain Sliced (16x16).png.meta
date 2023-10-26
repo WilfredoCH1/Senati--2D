@@ -1054,8 +1054,8 @@ TextureImporter:
       name: Plataforma_TPV_VerdeCentro_Centro
       rect:
         serializedVersion: 2
-        x: 112
-        y: 144
+        x: 113
+        y: 145
         width: 16
         height: 16
       alignment: 0
@@ -1534,7 +1534,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_46
+      name: MarcoEsquina_PV_MarronIzquierdo
       rect:
         serializedVersion: 2
         x: 0
@@ -1555,7 +1555,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_47
+      name: Marco_PV_Marron_Centro
       rect:
         serializedVersion: 2
         x: 16
@@ -1576,7 +1576,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_48
+      name: Marco_PV_Marron_Derecho
       rect:
         serializedVersion: 2
         x: 32
@@ -1597,7 +1597,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_49
+      name: Detalle_DerechoBajo
       rect:
         serializedVersion: 2
         x: 48
@@ -1618,7 +1618,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_50
+      name: Detalle_IzquierdoBajo
       rect:
         serializedVersion: 2
         x: 64
@@ -1744,7 +1744,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_56
+      name: Piedra_Izquierdo
       rect:
         serializedVersion: 2
         x: 192
@@ -1765,7 +1765,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_57
+      name: Piedra_Centro
       rect:
         serializedVersion: 2
         x: 208
@@ -1786,7 +1786,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_58
+      name: Piedra_Derecho
       rect:
         serializedVersion: 2
         x: 224
@@ -1828,7 +1828,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_60
+      name: LadrilloEsquina_IzquierdaSuperior
       rect:
         serializedVersion: 2
         x: 272
@@ -1849,7 +1849,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_61
+      name: Ladrillo_Central_Superior
       rect:
         serializedVersion: 2
         x: 288
@@ -1870,7 +1870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_62
+      name: LadrilloEsquina_Derecha_Superior
       rect:
         serializedVersion: 2
         x: 304
@@ -1933,7 +1933,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_65
+      name: Marco_PV_Marron_Izquierdo
       rect:
         serializedVersion: 2
         x: 0
@@ -1954,7 +1954,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_66
+      name: Fondo_MarcoCentro
       rect:
         serializedVersion: 2
         x: 16
@@ -1975,7 +1975,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_67
+      name: Marco_PV_Marron_Derech
       rect:
         serializedVersion: 2
         x: 32
@@ -1996,7 +1996,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_68
+      name: Detalle_DerechoSuperior
       rect:
         serializedVersion: 2
         x: 48
@@ -2017,7 +2017,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_69
+      name: Detalle_IzquierdoSuperior
       rect:
         serializedVersion: 2
         x: 64
@@ -2227,7 +2227,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_79
+      name: Ladrillo_Izquierda_Lateral_I
       rect:
         serializedVersion: 2
         x: 272
@@ -2248,7 +2248,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_80
+      name: Ladrillo_Central_medio
       rect:
         serializedVersion: 2
         x: 288
@@ -2269,7 +2269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_81
+      name: Ladrillo_Derecha_LateralD
       rect:
         serializedVersion: 2
         x: 304
@@ -2332,7 +2332,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_84
+      name: MarcoEsquina_PV_Marron_Izquierdo
       rect:
         serializedVersion: 2
         x: 0
@@ -2353,7 +2353,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_85
+      name: Marco_PV_Marron_Centr
       rect:
         serializedVersion: 2
         x: 16
@@ -2374,7 +2374,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_86
+      name: MarcoEsquina_PV_Marron_Derec
       rect:
         serializedVersion: 2
         x: 32
@@ -2521,7 +2521,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_93
+      name: LadrilloEsquina_Izquierda_Inferior
       rect:
         serializedVersion: 2
         x: 272
@@ -2542,7 +2542,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_94
+      name: Ladrillo_Central_Inferior
       rect:
         serializedVersion: 2
         x: 288
@@ -2563,7 +2563,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_95
+      name: LadrilloEsquina_Derecha_Inferior
       rect:
         serializedVersion: 2
         x: 304
@@ -3602,6 +3602,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Detalle_DerechoBajo: 2934133866269456315
+      Detalle_DerechoSuperior: 3220740477721170248
+      Detalle_IzquierdoBajo: 1034891850837087948
+      Detalle_IzquierdoSuperior: -8232957222563989430
+      Fondo_MarcoCentro: -4293226751833479062
+      LadrilloEsquina_Derecha_Inferior: 3895720443503238059
+      LadrilloEsquina_Derecha_Superior: 5344191953466923600
+      LadrilloEsquina_IzquierdaSuperior: -6933530849576539303
+      LadrilloEsquina_Izquierda_Inferior: 6046465229504819404
+      Ladrillo_Central_Inferior: 146925484895311433
+      Ladrillo_Central_Superior: -8849650766351124748
+      Ladrillo_Central_medio: -9178860142635623461
+      Ladrillo_Derecha_LateralD: -5377211804188701585
+      Ladrillo_Izquierda_Lateral_I: -7056944154279210060
+      MarcoEsquina_PV_MarronIzquierdo: 59160463414151494
+      MarcoEsquina_PV_Marron_Derec: 2534797647697017659
+      MarcoEsquina_PV_Marron_Izquierdo: 4860222720029096845
+      Marco_PV_Marron_Centr: -8908544382962373700
+      Marco_PV_Marron_Centro: 7769017978755655707
+      Marco_PV_Marron_Derech: -531863552409210314
+      Marco_PV_Marron_Derecho: 4651539075410445323
+      Marco_PV_Marron_Izquierdo: 8568688612705805593
+      Piedra_Centro: 772467259971446145
+      Piedra_Derecho: -39983623799505075
+      Piedra_Izquierdo: -2615569002567638836
       Plataforma_PV_VerdeCentro_ Centro: 2460501278191033764
       Plataforma_PV_VerdeCentro_ Derecho: 6516917985212256981
       Plataforma_PV_VerdeCentro_Izquierdo: -7876864015116417812
@@ -3699,29 +3724,13 @@ TextureImporter:
       Terrain (16x16)_43: 4373040517201769238
       Terrain (16x16)_44: -6530495296205248430
       Terrain (16x16)_45: 2248595124770686365
-      Terrain (16x16)_46: 59160463414151494
-      Terrain (16x16)_47: 7769017978755655707
-      Terrain (16x16)_48: 4651539075410445323
-      Terrain (16x16)_49: 2934133866269456315
       Terrain (16x16)_5: 1034891850837087948
-      Terrain (16x16)_50: -4533138595082870998
       Terrain (16x16)_54: -5869233480101591377
       Terrain (16x16)_55: -2615569002567638836
-      Terrain (16x16)_56: 772467259971446145
-      Terrain (16x16)_57: -39983623799505075
-      Terrain (16x16)_58: 6999343348047764492
       Terrain (16x16)_59: -7517053698926566003
       Terrain (16x16)_6: -6933530849576539303
-      Terrain (16x16)_60: -8849650766351124748
-      Terrain (16x16)_61: 5344191953466923600
-      Terrain (16x16)_62: 2110485755423906440
       Terrain (16x16)_63: 611278257802682203
       Terrain (16x16)_64: 8568688612705805593
-      Terrain (16x16)_65: -4293226751833479062
-      Terrain (16x16)_66: -531863552409210314
-      Terrain (16x16)_67: 3220740477721170248
-      Terrain (16x16)_68: -8232957222563989430
-      Terrain (16x16)_69: 3020870990670601969
       Terrain (16x16)_7: 3581976363580684779
       Terrain (16x16)_73: -1652666043038260038
       Terrain (16x16)_74: -3581127029532586042
@@ -3729,22 +3738,13 @@ TextureImporter:
       Terrain (16x16)_76: 1383883272258276261
       Terrain (16x16)_77: -5125620877619029284
       Terrain (16x16)_78: -7056944154279210060
-      Terrain (16x16)_79: 1685935324672158413
       Terrain (16x16)_8: -9178860142635623461
-      Terrain (16x16)_80: -5377211804188701585
-      Terrain (16x16)_81: -3332869691567337552
       Terrain (16x16)_82: -7839824748867068813
       Terrain (16x16)_83: 4860222720029096845
-      Terrain (16x16)_84: -8908544382962373700
-      Terrain (16x16)_85: 2534797647697017659
-      Terrain (16x16)_86: -701145450088738326
       Terrain (16x16)_9: 4218957088357342075
       Terrain (16x16)_90: -1647121858502193189
       Terrain (16x16)_91: 3045001923454373135
       Terrain (16x16)_92: 6046465229504819404
-      Terrain (16x16)_93: 146925484895311433
-      Terrain (16x16)_94: 3895720443503238059
-      Terrain (16x16)_95: -9019234469899804686
       Terrain (16x16)_99: -8620202154233844528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
